@@ -12,7 +12,7 @@
   <table id="main" border="0" cellspacing="0">
     <tr>
       <td id="header">
-        <h1>CRUDddd OPRATION</h1>
+        <h1>CRUD OPRATION SIMPLE</h1>
 
         <div id="search-bar">
           <label>Search :</label>
